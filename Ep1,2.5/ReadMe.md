@@ -18,4 +18,4 @@
 - Error Handling
 - HTTPs
 - Tree Shaking - remove unused code (ex : functions, random unused code)
-- Different dev and prod bundles
+- Different dev and prod bundles (https://github.com/browserslist/browserslist#query-composition)
