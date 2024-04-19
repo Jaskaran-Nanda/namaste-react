@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "Episode 1&2  of namaste react course by akshay saini",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "author": "Jaskaran Nanda",
